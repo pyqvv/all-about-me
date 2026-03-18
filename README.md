@@ -11,6 +11,9 @@
 ## 문서 목록
 
 - profile
+  - name
+  - age
+  - hobby
 - tech-stack
 - workstyle
 - favorites
